@@ -1,0 +1,36 @@
+# Environnement Python
+
+.venv/
+venv/
+**pycache**/
+*.py[cod]
+
+# Tests
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Configuration locale
+
+.env
+
+# Fichiers temporaires
+
+temp/
+tmp/
+*.log
+
+# Exports vidéo
+
+exports/
+
+# Compilation de l'application
+
+build/
+dist/
+*.spec
+
+# Configuration locale de VS Code
+
+.vscode/
